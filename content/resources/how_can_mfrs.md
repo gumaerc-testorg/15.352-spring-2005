@@ -2,8 +2,13 @@
 content_type: resource
 description: Users will be the choosers as to whether to buy or innovate or select
   a "free" user-developed solution.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-352-managing-innovation-emerging-trends-spring-2005/58e6397149c26652b5bda3749a5fbd92_how_can_mfrs.pdf
+file: /media/courses/15-352-managing-innovation-emerging-trends-spring-2005/58e6397149c26652b5bda3749a5fbd92_how_can_mfrs.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: how_can_mfrs.pdf
 uid: 58e63971-49c2-6652-b5bd-a3749a5fbd92

@@ -5,8 +5,13 @@ description: 'Includes topics: Definition of user innovation manufacturer innova
   costs
 
   and the number of users that want the same product.'
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-352-managing-innovation-emerging-trends-spring-2005/b16989affd2113b6cf3bf022bf7071aa_innovate_or_buy.pdf
+file: /media/courses/15-352-managing-innovation-emerging-trends-spring-2005/b16989affd2113b6cf3bf022bf7071aa_innovate_or_buy.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: innovate_or_buy.pdf
 uid: b16989af-fd21-13b6-cf3b-f022bf7071aa
