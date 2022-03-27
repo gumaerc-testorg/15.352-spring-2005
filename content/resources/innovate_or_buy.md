@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 resourcetype: Document
 title: innovate_or_buy.pdf
 uid: b16989af-fd21-13b6-cf3b-f022bf7071aa

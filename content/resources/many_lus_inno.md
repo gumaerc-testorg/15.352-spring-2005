@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 resourcetype: Document
 title: many_lus_inno.pdf
 uid: 4a2378c9-d36c-45a3-c40b-d1ff97b9ba5c

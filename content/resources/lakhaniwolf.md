@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Readings
 parent_type: CourseSection
+parent_uid: 45990c92-6ed7-154d-0b43-edbe63e00311
 resourcetype: Document
 title: lakhaniwolf.pdf
 uid: 8733c45a-525e-bced-e867-a9fb282398ca

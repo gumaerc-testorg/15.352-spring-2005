@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 resourcetype: Document
 title: democ_innov_int.pdf
 uid: 3c0c68b7-fc95-c251-c32d-33cf63f6e075

@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 resourcetype: Document
 title: academic_medical.pdf
 uid: 362494d8-ff7b-df78-be66-abf299cfd054
