@@ -6,6 +6,7 @@ file: /courses/15-352-managing-innovation-emerging-trends-spring-2005/4a2378c9d3
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: many_lus_inno.pdf
 uid: 4a2378c9-d36c-45a3-c40b-d1ff97b9ba5c
 ---
 Includes topics: Some essential definitions, major finding: many users innovate, an analysis of WHY do so many users want custom products and user innovation.
-

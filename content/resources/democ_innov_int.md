@@ -5,6 +5,7 @@ file: /courses/15-352-managing-innovation-emerging-trends-spring-2005/3c0c68b7fc
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: democ_innov_int.pdf
 uid: 3c0c68b7-fc95-c251-c32d-33cf63f6e075
 ---
 Includes an overview of course content and course requirements.
-
