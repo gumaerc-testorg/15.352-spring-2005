@@ -1,5 +1,10 @@
 ---
 content_type: page
+description: This section provides selected lectures from Prof. Eric von Hippel and
+  selected guests. All lectures are courtesy of the lecturer named and used with permission.
+learning_resource_types:
+- Lecture Notes
+ocw_type: CourseSection
 title: Lecture Notes
 uid: 85b33ea9-7271-323b-e674-6ae4183b0435
 ---
@@ -32,7 +37,7 @@ Introduction and Overview
 {{< tdopen >}}
 This course is intended for students who want to know what is going on at the leading edges of innovation practice. Important trends in innovation are identified and their implications for innovation management explored. Major topics include: the trend to open information ("open source") rather than protected intellectual property; distribution of innovation over many independent but collaborating actors; and toolkits that empower users to innovate for themselves.  
   
-In this introductory lecture, I will provide an overview of course content and course requirements. ([PDF]({{< baseurl >}}/resources/democ_innov_int))
+In this introductory lecture, I will provide an overview of course content and course requirements. ({{% resource_link 3c0c68b7-fc95-c251-c32d-33cf63f6e075 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -46,7 +51,7 @@ Many Users Innovate: Maybe Even You!
 {{< tdopen >}}
 Evidence is now very strong that users are the actual developers of many commercially-important products and services - especially the functionally novel, "breakthrough" ones.  
   
-Now we are learning that innovation by users is not a rare event: Many users are developing and modifying products in many fields - maybe even you! Why is this so? Users have heterogeneous needs that are not well-served even by the many products on the market. ([PDF]({{< baseurl >}}/resources/many_lus_inno))
+Now we are learning that innovation by users is not a rare event: Many users are developing and modifying products in many fields - maybe even you! Why is this so? Users have heterogeneous needs that are not well-served even by the many products on the market. ({{% resource_link 4a2378c9-d36c-45a3-c40b-d1ff97b9ba5c "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -60,7 +65,7 @@ Innovate or Buy? Each User has a Low-cost Innovation Niche
 {{< tdopen >}}
 Question: If you want something precisely right for you, why would you build it for yourself rather than buy it from a custom supplier?  
   
-Answer: It can be cheaper for you to do it yourself. Also, you often will get a better result innovating rather than buying due to sticky information effects - within your own "low-cost innovation niche." ([PDF]({{< baseurl >}}/resources/innovate_or_buy))
+Answer: It can be cheaper for you to do it yourself. Also, you often will get a better result innovating rather than buying due to sticky information effects - within your own "low-cost innovation niche." ({{% resource_link b16989af-fd21-13b6-cf3b-f022bf7071aa "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -88,7 +93,7 @@ How Open Source Software Works
 {{< tdopen >}}
 Lecturer: Karim Lakhani  
   
-The open source software phenomenon opened peoples' eyes to the potential power of innovation carried out by groups of volunteers with tools and coordination mechanisms. Karim Lakhani explains how OS works. He talks about community transparency and other organizational innovations that are used to achieve impressive results like Apache™ web server software and the Linux® operating system. ([PDF]({{< baseurl >}}/resources/karimlakhani_ope))
+The open source software phenomenon opened peoples' eyes to the potential power of innovation carried out by groups of volunteers with tools and coordination mechanisms. Karim Lakhani explains how OS works. He talks about community transparency and other organizational innovations that are used to achieve impressive results like Apache™ web server software and the Linux® operating system. ({{% resource_link cd65f820-c2b1-1551-e910-e7928398c504 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -114,7 +119,7 @@ Users - each in their narrow low-cost innovation or information niches - need so
 Why Users Often Freely Reveal Their Innovations
 {{< tdclose >}}
 {{< tdopen >}}
-Giving away innovations that you have spent money and time to develop does not fit traditional economic theory - it seems to make absolutely no sense. Nevertheless it does happen quite commonly. Free revealing in free and open source software brought this matter to the attention of academics - and now economic theory is beginning to understand how free revealing can make economic sense after all. ([PDF]({{< baseurl >}}/resources/free_revealing))
+Giving away innovations that you have spent money and time to develop does not fit traditional economic theory - it seems to make absolutely no sense. Nevertheless it does happen quite commonly. Free revealing in free and open source software brought this matter to the attention of academics - and now economic theory is beginning to understand how free revealing can make economic sense after all. ({{% resource_link 11e7f723-ee3a-4ff4-8e68-1e584e0beacf "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -128,7 +133,7 @@ How Can Manufacturers Make Money if Users are the Innovators?
 {{< tdopen >}}
 Are we all going to starve as users design and build their own products - totally ignoring the manufacturers that we work for and all the wonderful, proprietary solutions we can sell them?  
   
-Users will be the choosers as to whether to buy or innovate or select a "free" user-developed solution. ([PDF]({{< baseurl >}}/resources/how_can_mfrs))
+Users will be the choosers as to whether to buy or innovate or select a "free" user-developed solution. ({{% resource_link 58e63971-49c2-6652-b5bd-a3749a5fbd92 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -156,7 +161,7 @@ How Manufacturers Can Benefit from Distributed Innovation: The Story of InnoCent
 {{< tdopen >}}
 Lecturer: Darren Carroll, CEO, InnoCentive  
   
-Manufacturers can benefit from purposefully inducing / acquiring distributed innovation. "InnoCentive enables companies to tap into the talents of a global scientific community for innovative solutions to tough R&D problems." Darrin will tell us how. ([PDF]({{< baseurl >}}/resources/mit_mar07_2005))
+Manufacturers can benefit from purposefully inducing / acquiring distributed innovation. "InnoCentive enables companies to tap into the talents of a global scientific community for innovative solutions to tough R&D problems." Darrin will tell us how. ({{% resource_link 59e1024c-5acf-5540-a71c-43d1d2d30687 "PDF" %}})
 {{< tdclose >}}
 
 {{< trclose >}}
