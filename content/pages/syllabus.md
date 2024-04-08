@@ -23,7 +23,7 @@ Readings
 
 All assigned readings are available in the course reader. The main text for the class is:
 
-[![Buy at MIT Press](/images/mp_logo.gif)](https://mitpress.mit.edu/books/democratizing-innovation) von Hippel, Eric. [_Democratizing Innovation_](https://mitpress.mit.edu/books/democratizing-innovation). Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
+{{% resource_link "ae358a5d-de6d-4447-92c8-be8d14b36c52" "![Buy at MIT Press](/images/mp_logo.gif)" %}} von Hippel, Eric. {{% resource_link "ae358a5d-de6d-4447-92c8-be8d14b36c52" "_Democratizing Innovation_" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
 
 Note that it is available free in electronic format from the MIT Press Web site, for reproduction for non-commercial purposes with proper attribution.
 
