@@ -6,6 +6,7 @@ description: 'Includes topics: Definition of user innovation manufacturer innova
 
   and the number of users that want the same product.'
 file: /courses/15-352-managing-innovation-emerging-trends-spring-2005/b16989affd2113b6cf3bf022bf7071aa_innovate_or_buy.pdf
+file_size: 189881
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
