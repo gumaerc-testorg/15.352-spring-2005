@@ -2,7 +2,7 @@
 content_type: resource
 description: A report on the results of a study of the effort and motivations of individuals
   to contributing to the creation of Free/Open Source software.
-file: /ol-ocw-studio-app/courses/15-352-managing-innovation-emerging-trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdf
+file: /courses/15-352-managing-innovation-emerging-trends-spring-2005/8733c45a525ebcede867a9fb282398ca_lakhaniwolf.pdf
 file_size: 127074
 file_type: application/pdf
 learning_resource_types:

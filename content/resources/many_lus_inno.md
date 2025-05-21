@@ -2,7 +2,7 @@
 content_type: resource
 description: 'Includes topics: Some essential definitions, major finding: many users
   innovate, an analysis of WHY do so many users want custom products and user innovation.'
-file: /ol-ocw-studio-app/courses/15-352-managing-innovation-emerging-trends-spring-2005/4a2378c9d36c45a3c40bd1ff97b9ba5c_many_lus_inno.pdf
+file: /courses/15-352-managing-innovation-emerging-trends-spring-2005/4a2378c9d36c45a3c40bd1ff97b9ba5c_many_lus_inno.pdf
 file_size: 417527
 file_type: application/pdf
 learning_resource_types:
