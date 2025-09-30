@@ -11,7 +11,7 @@ uid: 45990c92-6ed7-154d-0b43-edbe63e00311
 ---
 All assigned readings are available in the course reader. The main text for the class is:
 
-![Buy at MIT Press](/images/mp_logo.gif) von Hippel, Eric. [*Democratizing Innovation*](https://direct.mit.edu/books/book/2821/Democratizing-Innovation). Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
+![Buy at MIT Press](/images/mp_logo.gif) von Hippel, Eric. {{% resource_link "59bb581d-6b74-4121-917e-eb4403cb1497" "*Democratizing Innovation*" %}}. Cambridge, MA: MIT Press, 2005. ISBN: 0262002744.
 
 Note that it is available free in electronic format from the MIT Press Web site, for reproduction for non-commercial purposes with proper attribution.
 
@@ -96,7 +96,7 @@ von Hippel, Eric. Chapters 10 and 11 in *Democratizing Innovation*.
 {{< tdclose >}}{{< tdopen >}}
 How Manufacturers Can Benefit from Distributed Innovation: The Story of InnoCentive
 {{< tdclose >}}{{< tdopen >}}
-Please go to the Web site [Innocentive](http://www.innocentive.com/) to browse. Learn about what the firm does, what its business model is, and read case examples.
+Please go to the Web site {{% resource_link "3800db9e-e479-4579-b140-7ef51a536ff6" "Innocentive" %}} to browse. Learn about what the firm does, what its business model is, and read case examples.
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11
 {{< tdclose >}}{{< tdopen >}}
@@ -113,7 +113,7 @@ Thomke, Stefan, and Eric von Hippel. "Customers as Innovators: A New Way to Crea
 Resistance to Innovation is the Norm: Things will Change - But Slowly, If Incumbents have a Choice!
 {{< tdclose >}}{{< tdopen >}}
 
-![Buy at MIT Press](/images/mp_logo.gif) Morrison, Elting. "Gunfire at Sea." Chapter 2 in [*Men, Machines and Modern Times*](https://mitpress.mit.edu/books/men-machines-and-modern-times-50th-anniversary-edition). Cambridge, MA: MIT Press. ISBN: 0262630184.
+![Buy at MIT Press](/images/mp_logo.gif) Morrison, Elting. "Gunfire at Sea." Chapter 2 in {{% resource_link "f205c2a7-0402-408a-99c5-a95cd7088d6c" "*Men, Machines and Modern Times*" %}}. Cambridge, MA: MIT Press. ISBN: 0262630184.
 
 Henderson, Rebecca M., and Kim B. Clark. "Architectural Innovation: The Reconfiguration of Existing Product Technologies and the Failure of Established Firms." *Administrative Science Quarterly* 35, (1990): 9-30.
 
